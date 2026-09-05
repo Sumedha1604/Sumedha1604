@@ -40,7 +40,3 @@ Backend-focused commerce platform exploring microservices and distributed system
 
 `Java` `Spring Boot` `PostgreSQL` `Docker`
 
-### Crypto DSS
-Machine-learning based cryptocurrency decision support system.
-
-`Python` `Streamlit` `Machine Learning`
